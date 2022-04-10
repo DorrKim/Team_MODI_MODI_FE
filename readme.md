@@ -108,7 +108,7 @@
 <br/>
 
 ## 📝 프로젝트 문서
-+ [팀 MODI Notion](https://www.notion.so/backend-devcourse/11-9fc1c4557d06490c83abd11ae213b9f4)
++ [팀 MODI Notion](https://backend-devcourse.notion.site/11-9fc1c4557d06490c83abd11ae213b9f4)
 
 <br/>
 
